@@ -1,6 +1,6 @@
 package Programmers;
 
-class Solution {
+class 정수제곱근판별 {
     public long solution(long n) {
         long answer;
 
@@ -14,7 +14,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution test = new Solution();
+        정수제곱근판별 test = new 정수제곱근판별();
         System.out.println(test.solution(121));
         System.out.println(test.solution(3));
 
